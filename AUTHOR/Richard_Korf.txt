@@ -1,0 +1,7 @@
+Richard_Korf
+Director
+Unverisity of Plano
+jovi.zhu@hotmail.com
+Heuristic Search and Optimization (HSO)
+Planning and Scheduling (PS)
+Search and Constraint Satisfaction (SCS)

@@ -1,0 +1,9 @@
+Charlotte_Zhu
+Research Scientist
+Unverisity of Richardson
+jovi.zhu@hotmail.com
+Heuristic Search and Optimization (HSO)
+Humans and AI (HAI)
+Machine Learning Applications (MLA)
+Reasoning under Uncertainty (RU)
+Robotics (ROB)

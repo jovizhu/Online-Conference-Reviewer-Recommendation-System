@@ -1,0 +1,7 @@
+Daniel_Sheldon
+Professor
+Unverisity of Dallas
+jovi.zhu@hotmail.com
+Computational Sustainability and AI (CSAI)
+Heuristic Search and Optimization (HSO)
+Planning and Scheduling (PS)

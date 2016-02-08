@@ -1,0 +1,6 @@
+Eric_Gregoire
+Associate Professor
+Unverisity of Dallas
+jovi.zhu@hotmail.com
+Heuristic Search and Optimization (HSO)
+Search and Constraint Satisfaction (SCS)

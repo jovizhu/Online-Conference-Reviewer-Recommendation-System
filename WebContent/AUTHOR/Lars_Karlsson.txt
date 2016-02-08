@@ -1,0 +1,7 @@
+Lars_Karlsson
+Director
+Unverisity of Dallas
+jovi.zhu@hotmail.com
+Knowledge Representation and Reasoning (KRR)
+Planning and Scheduling (PS)
+Search and Constraint Satisfaction (SCS)

@@ -1,0 +1,6 @@
+Victor_Lesser
+Director
+Unverisity of Texas
+jovi.zhu@hotmail.com
+Heuristic Search and Optimization (HSO)
+Search and Constraint Satisfaction (SCS)

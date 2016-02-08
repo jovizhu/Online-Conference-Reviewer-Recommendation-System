@@ -1,0 +1,9 @@
+Zheng_Chen
+Research Scientist
+Unverisity of Allen
+jovi.zhu@hotmail.com
+Knowledge Representation and Reasoning (KRR)
+Machine Learning Applications (MLA)
+NLP and Knowledge Representation (NLPKR)
+Novel Machine Learning Algorithms (NMLA)
+Reasoning under Uncertainty (RU)

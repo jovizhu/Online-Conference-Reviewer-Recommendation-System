@@ -1,0 +1,6 @@
+Yoonheui_Kim
+Associate Professor
+Unverisity of Allen
+jovi.zhu@hotmail.com
+Heuristic Search and Optimization (HSO)
+Search and Constraint Satisfaction (SCS)

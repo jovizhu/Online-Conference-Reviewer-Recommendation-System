@@ -1,0 +1,8 @@
+R._Bruce_Van_Dover
+Director
+Unverisity of Richardson
+jovi.zhu@hotmail.com
+Computational Sustainability and AI (CSAI)
+Heuristic Search and Optimization (HSO)
+Machine Learning Applications (MLA)
+Search and Constraint Satisfaction (SCS)

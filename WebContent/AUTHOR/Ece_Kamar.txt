@@ -1,0 +1,9 @@
+Ece_Kamar
+Associate Professor
+Unverisity of Plano
+jovi.zhu@hotmail.com
+AI and the Web (AIW)
+Applications (APP)
+Human-Computation and Crowd Sourcing (HCC)
+Machine Learning Applications (MLA)
+Novel Machine Learning Algorithms (NMLA)

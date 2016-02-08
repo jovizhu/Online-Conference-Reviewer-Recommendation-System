@@ -1,0 +1,9 @@
+Michael_Taylor
+Director
+Unverisity of Richardson
+jovi.zhu@hotmail.com
+Applications (APP)
+Machine Learning Applications (MLA)
+Novel Machine Learning Algorithms (NMLA)
+Reasoning under Uncertainty (RU)
+Robotics (ROB)

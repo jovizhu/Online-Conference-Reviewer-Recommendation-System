@@ -1,0 +1,7 @@
+Bin_Cui
+Professor
+Unverisity of Richardson
+jovi.zhu@hotmail.com
+AI and the Web (AIW)
+Machine Learning Applications (MLA)
+NLP and Knowledge Representation (NLPKR)

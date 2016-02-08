@@ -1,0 +1,6 @@
+William_Yeoh
+Professor
+Unverisity of Dallas
+jovi.zhu@hotmail.com
+Multiagent Systems (MAS)
+Search and Constraint Satisfaction (SCS)

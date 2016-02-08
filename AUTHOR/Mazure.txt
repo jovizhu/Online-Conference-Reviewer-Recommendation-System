@@ -1,0 +1,6 @@
+Mazure
+Phd Students
+Unverisity of Richardson
+jovi.zhu@hotmail.com
+Heuristic Search and Optimization (HSO)
+Search and Constraint Satisfaction (SCS)

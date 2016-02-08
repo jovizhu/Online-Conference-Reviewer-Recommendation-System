@@ -1,0 +1,7 @@
+Jason_Sleight
+Research Scientist
+Unverisity of Richardson
+jovi.zhu@hotmail.com
+Multiagent Systems (MAS)
+Planning and Scheduling (PS)
+Reasoning under Uncertainty (RU)

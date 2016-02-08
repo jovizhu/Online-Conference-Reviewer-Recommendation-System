@@ -1,0 +1,8 @@
+Richard_Bernstein
+Director
+Unverisity of Allen
+jovi.zhu@hotmail.com
+Computational Sustainability and AI (CSAI)
+Heuristic Search and Optimization (HSO)
+Machine Learning Applications (MLA)
+Search and Constraint Satisfaction (SCS)

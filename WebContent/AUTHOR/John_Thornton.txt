@@ -1,0 +1,6 @@
+John_Thornton
+Director
+Unverisity of Dallas
+jovi.zhu@hotmail.com
+Heuristic Search and Optimization (HSO)
+Search and Constraint Satisfaction (SCS)
